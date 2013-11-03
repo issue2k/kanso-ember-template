@@ -1,0 +1,9 @@
+{
+  "name": "kanso-emberjs-app",
+  "version": "0.0.1",
+  "description": "Kanso Emberjs App",
+  "attachments": ["index.html", "css", "js"],
+  "dependencies": {
+    "attachments": null
+  }
+}
